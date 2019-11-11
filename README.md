@@ -5,7 +5,7 @@ This is Meta_Learners' 2nd place winning solution of the AutoWSL (Automated Weak
 ## Authors
 * Zheng Xiong <sup>1</sup>
 * Chaoyu Guan <sup>1</sup>
-* Wenpeng Zhang <sup>2</sup>
+* Wenpeng Zhang <sup>1, 2</sup>
 
 ## Affiliation
 1. Tsinghua University
